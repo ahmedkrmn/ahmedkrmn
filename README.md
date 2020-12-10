@@ -1,5 +1,5 @@
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedkrmn&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ahmedkrmn&show_icons=true&theme=dark" />
 </a>
 <!-- <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedkrmn&layout=compact" />
